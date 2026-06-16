@@ -1,4 +1,5 @@
 {
-  "baseUrl": "http://ryuumambochan.naell.my.id:3015",
-  "wsUrl": "wss://ryuumambochan.naell.my.id:3015"
+  "baseUrl": "http://rixz.majahost.web.id:10206",
+  "wsUrl": "wss://rixz.majahost.web.id:10206",
+  "dracinUrl": "https://api.tvmaze.com"
 }
