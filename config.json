@@ -1,5 +1,5 @@
 {
-  "baseUrl": "http://rixz.majahost.web.id:10005",
-  "wsUrl": "ws://rixz.majahost.web.id:10005", 
+  "baseUrl": "http://rixz.majahost.web.id:10009",
+  "wsUrl": "ws://rixz.majahost.web.id:10009", 
   "dracinUrl": "https://api.tvmaze.com"
 }
