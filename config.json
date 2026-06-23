@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://rixzzz-privat-panel.majahost.web.id:10008",
+  "baseUrl": "http://rixzzz-privat-panel.majahost.web.id:10008",
   "wsUrl": "ws://rixzzz-privat-panel.majahost.web.id:10008", 
   "dracinUrl": "https://api.tvmaze.com"
 }
